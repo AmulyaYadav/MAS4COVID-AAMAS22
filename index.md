@@ -20,16 +20,27 @@ While there exist many different areas in which AI can help in the fight against
 
 The main topics of the tutorial will be:
 - **Prelude**
+
   -What is COVID-19?
+  
   -Characteristics of this pandemic which MAS research can exploit
+  
 - **Topics Fertile for MAS Research**
-  -MAS research for Transmission Modeling
-  -MAS research for COVID-19 Forecasting
-  -MAS research for Optimal Healthcare Resource Utilization
-  -MAS research for Vaccine Discovery
-  -MAS research for knowledge mining using CORD-19
-- **Overview of Current MAS Research for COVID-19*
-  -Possible Future Directions
+
+  - MAS research for Transmission Modeling
+  
+  - MAS research for COVID-19 Forecasting
+  
+  - MAS research for Optimal Healthcare Resource Utilization
+  
+  - MAS research for Vaccine Discovery
+  
+  - MAS research for knowledge mining using CORD-19
+  
+- **Overview of Current MAS Research for COVID-19**
+
+  - Possible Future Directions
+  
 - **Closing Comments**
   
 ### Presentation Slides
