@@ -41,7 +41,7 @@ Watch this space. Slides will be available here two weeks before the tutorial.
 
 Amulya Yadav               |  Srini Venkaramanan
 :-------------------------:|:-------------------------:
-![](https://i.ibb.co/2ZN3fFH/rescaled.png)  |  ![](https://ibb.co/PQXShCg)
+![](https://i.ibb.co/2ZN3fFH/rescaled.png)  |  ![](https://i.ibb.co/bJwfBdX/srini.jpg)
 
 **Amulya Yadav** is the PNC Technologies Career Development Assistant Professor in the College of Information Sciences and Technology at Penn State University. His research interests include Artificial Intelligence, Multi-Agent Systems, Computational Game-Theory and Applied Machine Learning.
 
