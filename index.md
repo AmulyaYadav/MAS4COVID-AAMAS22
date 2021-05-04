@@ -45,8 +45,9 @@ The main topics of the tutorial will be:
   
 ### Presentation Slides
 
-Watch this space. Slides will be available here two weeks before the tutorial.
+Slides Deck 1: https://cutt.ly/PbbpFrR
 
+Slides Deck 2: http://bit.ly/AAMAS21-COVID19-SV
 
 ### Presenters
 
