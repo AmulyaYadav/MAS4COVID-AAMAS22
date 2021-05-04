@@ -2,11 +2,11 @@
 
 Virtual Tutorial Presented at AAMAS 2021, London, United Kingdom
 
-**Date**: Monday, 3rd May, 2021
+**Date**: Monday, 4th May, 2021
 
-**Time**: TBD
+**Time**: 10 AM - 1 PM EST (New York Time)
 
-**Venue**: Zoom (Links to be given to attendees later)
+**Venue**: Zoom (Links to be given to attendees over Underline)
 
 ### Abstract
 COVID-19 (or coronavirus) is the greatest public health crisis that the world has experienced in the last century. Tackling it effectively requires the collective will of experts from a variety of disciplines. From a computer science perspective, Artificial Intelligence (and Multi-Agent Systems) researchers have traditionally been at the forefront of responding to rapidly emerging societal needs. The proposed tutorial will engage attendees in meaningful discussions around the different ways in which Multi-Agent Systems (MAS) research can help in tackling the COVID-19 pandemic. Clearly, MAS researchers have already made rapid strides in this space For example, a lot of efforts have been made by MAS researchers in developing agent-based models for simulating the transmission of COVID-19. In addition, MAS researchers have proposed Markovian models for generated optimal sequential intervention strategies for effective imposition and release of lockdown protocols. At the same time, we have not yet seen the enormous potential of MAS research being leveraged to design decision support systems (e.g., in the allocation of limited healthcare resources such as testing kits) which can assist epidemiologists and policy makers in their fight against this pandemic.
