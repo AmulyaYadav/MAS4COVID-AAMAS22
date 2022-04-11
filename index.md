@@ -1,6 +1,6 @@
 # Multi-Agent Systems Approaches for COVID-19 and Future Pandemics: Challenges and Opportunities
 
-Virtual Tutorial Presented at AAMAS 2022, London, United Kingdom
+Virtual Tutorial Presented at AAMAS 2022, Auckland, New Zealand
 
 **Date**: Monday, 10th May, 2022
 
