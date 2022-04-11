@@ -1,12 +1,12 @@
 # Multi-Agent Systems Approaches for COVID-19 and Future Pandemics: Challenges and Opportunities
 
-Virtual Tutorial Presented at AAMAS 2021, London, United Kingdom
+Virtual Tutorial Presented at AAMAS 2022, London, United Kingdom
 
-**Date**: Monday, 4th May, 2021
+**Date**: Monday, 10th May, 2022
 
-**Time**: 10 AM - 1 PM EST (New York Time)
+**Time**: 6 PM - 9 PM EST (New York Time)
 
-**Venue**: Zoom (Links to be given to attendees over Underline)
+**Venue**: Zoom Link (https://tiny.cc/amulya)
 
 ### Abstract
 COVID-19 (or coronavirus) is the greatest public health crisis that the world has experienced in the last century. Tackling it effectively requires the collective will of experts from a variety of disciplines. From a computer science perspective, Artificial Intelligence (and Multi-Agent Systems) researchers have traditionally been at the forefront of responding to rapidly emerging societal needs. The proposed tutorial will engage attendees in meaningful discussions around the different ways in which Multi-Agent Systems (MAS) research can help in tackling the COVID-19 pandemic. Clearly, MAS researchers have already made rapid strides in this space For example, a lot of efforts have been made by MAS researchers in developing agent-based models for simulating the transmission of COVID-19. In addition, MAS researchers have proposed Markovian models for generated optimal sequential intervention strategies for effective imposition and release of lockdown protocols. At the same time, we have not yet seen the enormous potential of MAS research being leveraged to design decision support systems (e.g., in the allocation of limited healthcare resources such as testing kits) which can assist epidemiologists and policy makers in their fight against this pandemic.
@@ -47,14 +47,10 @@ The main topics of the tutorial will be:
 
 Slides Deck 1: https://cutt.ly/PbbpFrR
 
-Slides Deck 2: http://bit.ly/AAMAS21-COVID19-SV
-
 ### Presenters
 
-Amulya Yadav               |  Srini Venkaramanan
-:-------------------------:|:-------------------------:
-![](https://i.ibb.co/2ZN3fFH/rescaled.png)  |  ![](https://i.ibb.co/bJwfBdX/srini.jpg)
+Amulya Yadav
+:-------------------------:
+![](https://i.ibb.co/2ZN3fFH/rescaled.png)
 
 **Amulya Yadav** is the PNC Technologies Career Development Assistant Professor in the College of Information Sciences and Technology at Penn State University. His research interests include Artificial Intelligence, Multi-Agent Systems, Computational Game-Theory and Applied Machine Learning.
-
-**Srini Venkatramanan** is a research scientist at the Network Systems Science and Advanced Computing division at the Biocomplexity Institute in the University of Virginia. Venkatramanan’s research areas include stochastic modeling, diffusion dynamics, optimal control and network science. At the Biocomplexity Institute, he is responsible for developing, analyzing and optimizing computational models for complex systems arising in the domains of epidemiology and food security.
